@@ -10,3 +10,8 @@ Static demo site ready for GitHub Pages.
 5. Choose `main` and `/ (root)`, then Save.
 
 The enquiry form is intentionally demo-only and does not send customer data anywhere.
+/assets/css/style.scss
+---
+---
+
+@import "{{ site.theme }}";
